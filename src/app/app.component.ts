@@ -7,7 +7,6 @@ import { DataService } from './data.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
   objectKeys = Object.keys;
   cryptos: any;
   
